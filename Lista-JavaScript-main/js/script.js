@@ -242,6 +242,7 @@ const exercicio12 = () => {
   }
   resultado.innerHTML = "Somatória dos números digitados: " + soma;
 };
+
 //exercicio 13
 const exercicio13 = () => {
   let num1 = parseInt(document.getElementById("num1").value);
